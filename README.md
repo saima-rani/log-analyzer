@@ -7,5 +7,5 @@ A beginner Python code that reads a log file and counts INFO, DEBUG, WARNING and
 - Lists all ERROR messages
 - Lists all WARNING messages
 
-## How to run
+## How to run:
 python3 log_analyzer.py
